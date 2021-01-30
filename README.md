@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # Matplotlib Homework - The Power of Plots
+=======
+# Matplotlib-Challenge
+# The Power of Plots
+>>>>>>> 3ef2ad0f3423c3eb89f0c7e0e93e76d0e121b187
 
 ## Background
 
